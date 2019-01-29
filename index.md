@@ -1,5 +1,5 @@
 ---
 layout: page
-title: SKULD: Discover the next dimension of Technical Debt
+title: SKULD Discover the next dimension of Technical Debt
 ---
 Soon...
